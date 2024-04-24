@@ -2,10 +2,10 @@
 👋 ¡Saludos! Soy Santino Rossi, un apasionado del código.<br><br>📈 Actualmente, me encuentro inmerso en un proceso de estudio constante y evolución, siempre en busca de nuevos conocimientos y habilidades para mantenerme al día con las últimas tendencias y tecnologías.<br><br>🚀 Mi enfoque principal es superarme a mí mismo en todos los aspectos de mi vida, tanto a nivel personal como profesional. Busco oportunidades que me desafíen y me permitan crecer, aprovechando cada experiencia como un escalón hacia el éxito.<br><br>⚡ Poseo una sólida habilidad para la resolución de problemas, respaldada por un pensamiento lógico y una ejecución veloz. Me gusta abordar los desafíos con creatividad y determinación, siempre buscando encontrar las mejores soluciones en el menor tiempo posible.
 
 
-## 🌐 Socials:
-<div> <a href="https://www.linkedin.com/in/rodriguezcadr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/2piradrian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:rodriguezcadr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 🌐 Contact - Social:
+<div> <a href="https://www.linkedin.com/in/santino-rossi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/srossiprieto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:srossiprieto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 # 💻 Tech Stack:
